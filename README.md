@@ -1,16 +1,20 @@
 # expense_tracker
 
-A new Flutter project.
+## ScreenShots
 
-## Getting Started
+## Video Demo
+[expense_tracker Application Demo]()
 
-This project is a starting point for a Flutter application.
+## App Apk
 
-A few resources to get you started if this is your first Flutter project:
+## Introduction
+expense_tracker Application To Calculate where your money go for like in food at most or leisure or yravel or work 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Dscribtion
+This Application implements 
+* State Mangement (cubit,bloc)
+* uses Fractionally Sized Box Widget To show as Bar chart
+* Dark Moded
+* Flexible on screens (Orientation Handled)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
